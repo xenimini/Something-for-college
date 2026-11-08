@@ -1,0 +1,10 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\bin\Debug\TargetApp.exe.config
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\bin\Debug\TargetApp.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\bin\Debug\TargetApp.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.csproj.AssemblyReference.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.Form1.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.Properties.Resources.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.csproj.GenerateResource.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\TargetApp\obj\Debug\TargetApp.pdb

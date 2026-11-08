@@ -1,0 +1,14 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\bin\Debug\net8.0\StyleChanger.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\bin\Debug\net8.0\StyleChanger.deps.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\bin\Debug\net8.0\StyleChanger.runtimeconfig.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\bin\Debug\net8.0\StyleChanger.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\bin\Debug\net8.0\StyleChanger.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.AssemblyInfoInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.AssemblyInfo.cs
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\refint\StyleChanger.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\StyleChanger.genruntimeconfig.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\StyleChanger\obj\Debug\net8.0\ref\StyleChanger.dll

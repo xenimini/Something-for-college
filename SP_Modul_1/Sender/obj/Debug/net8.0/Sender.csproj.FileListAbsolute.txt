@@ -1,0 +1,14 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\bin\Debug\net8.0\Sender.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\bin\Debug\net8.0\Sender.deps.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\bin\Debug\net8.0\Sender.runtimeconfig.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\bin\Debug\net8.0\Sender.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\bin\Debug\net8.0\Sender.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.AssemblyInfoInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.AssemblyInfo.cs
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\refint\Sender.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\Sender.genruntimeconfig.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\Sender\obj\Debug\net8.0\ref\Sender.dll

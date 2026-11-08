@@ -1,0 +1,10 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\bin\Debug\FormApp.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\bin\Debug\FormApp.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie1\FormApp\obj\Debug\FormApp.pdb
