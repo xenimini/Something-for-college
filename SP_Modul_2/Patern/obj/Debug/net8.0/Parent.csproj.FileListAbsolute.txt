@@ -1,0 +1,14 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\bin\Debug\net8.0\Parent.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\bin\Debug\net8.0\Parent.deps.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\bin\Debug\net8.0\Parent.runtimeconfig.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\bin\Debug\net8.0\Parent.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\bin\Debug\net8.0\Parent.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.AssemblyInfoInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.AssemblyInfo.cs
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\refint\Parent.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\Parent.genruntimeconfig.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Patern\Patern\obj\Debug\net8.0\ref\Parent.dll
