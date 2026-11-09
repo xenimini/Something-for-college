@@ -1,0 +1,14 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\bin\Debug\net8.0\Zadanie_Task.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\bin\Debug\net8.0\Zadanie_Task.deps.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\bin\Debug\net8.0\Zadanie_Task.runtimeconfig.json
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\bin\Debug\net8.0\Zadanie_Task.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\bin\Debug\net8.0\Zadanie_Task.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.AssemblyInfoInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.AssemblyInfo.cs
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\refint\Zadanie_Task.dll
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\Zadanie_Task.genruntimeconfig.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie_Task\Zadanie_Task\obj\Debug\net8.0\ref\Zadanie_Task.dll
