@@ -1,5 +1,0 @@
-C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie Zadanie\obj\Debug\Zadanie Zadanie.csproj.AssemblyReference.cache
-C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie Zadanie\obj\Debug\Zadanie_PLINQ.Form1.resources
-C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie Zadanie\obj\Debug\Zadanie_Zadanie.Properties.Resources.resources
-C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie Zadanie\obj\Debug\Zadanie Zadanie.csproj.GenerateResource.cache
-C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie Zadanie\obj\Debug\Zadanie Zadanie.csproj.CoreCompileInputs.cache
