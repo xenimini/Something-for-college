@@ -1,0 +1,10 @@
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\bin\Debug\Zadanie_PLINQ.exe.config
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\bin\Debug\Zadanie_PLINQ.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\bin\Debug\Zadanie_PLINQ.pdb
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.csproj.AssemblyReference.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.Form1.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.Properties.Resources.resources
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.csproj.GenerateResource.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.exe
+C:\Users\antik\Downloads\SQL_Project_V\WebApi\Zadanie Zadanie\Zadanie_PLINQ\obj\Debug\Zadanie_PLINQ.pdb
