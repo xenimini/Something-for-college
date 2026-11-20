@@ -12,8 +12,8 @@ namespace QuoteGenerator
     public static class Server
     {
         private const int Port = 5000;
-        private const int MaxClients = 5;          // Максимальное количество клиентов
-        private const int MaxQuotesPerUser = 3;    // Максимальное количество цитат на пользователя
+        private const int MaxClients = 5;
+        private const int MaxQuotesPerUser = 3;
         private static readonly List<string> Quotes = new()
         {
             "Жизнь — это то, что происходит с тобой, пока ты строишь другие планы. — Джон Леннон",
@@ -37,6 +37,7 @@ namespace QuoteGenerator
         private static readonly object _clientsLock = new();
         private static readonly ConcurrentDictionary<string, int> _userQuoteCounts = new();
         private static readonly string LogFile = "server_log.txt";
+        private static readonly Random _random = new();
 
         public static void Start()
         {
@@ -64,6 +65,7 @@ namespace QuoteGenerator
             var connectTime = DateTime.Now;
             var receivedQuotes = new List<string>();
             string clientEndPoint = tcpClient.Client.RemoteEndPoint?.ToString() ?? "unknown";
+            bool clientCountIncremented = false;
 
             try
             {
@@ -79,6 +81,7 @@ namespace QuoteGenerator
                         return;
                     }
                     _currentClients++;
+                    clientCountIncremented = true;
                 }
 
                 writer.WriteLine("AUTH");
@@ -86,7 +89,6 @@ namespace QuoteGenerator
                 if (string.IsNullOrWhiteSpace(authLine) || !authLine.Contains(':'))
                 {
                     writer.WriteLine("ERROR: Неверный формат. Ожидается username:password");
-                    DecrementClients();
                     return;
                 }
 
@@ -97,14 +99,13 @@ namespace QuoteGenerator
                 if (!Users.TryGetValue(user, out var correctPass) || correctPass != pass)
                 {
                     writer.WriteLine("ERROR: Неверное имя пользователя или пароль.");
-                    DecrementClients();
                     return;
                 }
 
                 username = user;
                 var logConnect = $"[{connectTime:yyyy-MM-dd HH:mm:ss}] Подключился: {username} ({clientEndPoint})";
                 Console.WriteLine(logConnect);
-                File.AppendAllText(LogFile, logConnect + Environment.NewLine);
+                try { File.AppendAllText(LogFile, logConnect + Environment.NewLine); } catch { }
 
                 writer.WriteLine("OK");
 
@@ -123,7 +124,11 @@ namespace QuoteGenerator
                             break;
                         }
 
-                        var quote = Quotes[Random.Shared.Next(Quotes.Count)];
+                        string quote;
+                        lock (_random)
+                        {
+                            quote = Quotes[_random.Next(Quotes.Count)];
+                        }
                         writer.WriteLine(quote);
                         receivedQuotes.Add(quote);
                         _userQuoteCounts.AddOrUpdate(username, 1, (_, v) => v + 1);
@@ -148,20 +153,18 @@ namespace QuoteGenerator
                         : "(нет цитат)";
                     var logDisconnect = $"[{disconnectTime:yyyy-MM-dd HH:mm:ss}] Отключился: {username} ({clientEndPoint}). Цитаты: {quotesStr}";
                     Console.WriteLine(logDisconnect);
-                    File.AppendAllText(LogFile, logDisconnect + Environment.NewLine);
+                    try { File.AppendAllText(LogFile, logDisconnect + Environment.NewLine); } catch { }
                 }
 
-                DecrementClients();
+                if (clientCountIncremented)
+                {
+                    lock (_clientsLock)
+                    {
+                        if (_currentClients > 0)
+                            _currentClients--;
+                    }
+                }
                 tcpClient.Close();
-            }
-        }
-
-        static void DecrementClients()
-        {
-            lock (_clientsLock)
-            {
-                if (_currentClients > 0)
-                    _currentClients--;
             }
         }
     }
